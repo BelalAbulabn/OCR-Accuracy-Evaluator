@@ -41,5 +41,4 @@ This Python project utilizes the Tesseract OCR engine through the pytesseract wr
 ## Contributing
 Contributions to enhance the functionality or the efficiency of the OCR process are welcome. Please ensure to submit a pull request with a clear description of your changes.
 
-## License
-This project is released under the MIT License. See the LICENSE file for more details.
+
